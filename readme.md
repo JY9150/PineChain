@@ -1,3 +1,3 @@
-﻿# PinceChain
+﻿# PineChain
 
 Recreating a Blockchain service
