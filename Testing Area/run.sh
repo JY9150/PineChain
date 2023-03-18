@@ -1,4 +1,4 @@
-runnableName=test_main
+runnableName=test_main.exe
 fileName=test_ssl.cpp
-g++ -o ${runnableName} ${fileName} -lcrypto -lssl
+g++ -I. -o ${runnableName} ${fileName} -lcrypto -lssl
 ./${runnableName}
